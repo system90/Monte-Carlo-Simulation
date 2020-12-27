@@ -1,4 +1,4 @@
 # Monte Carlo Simulation
  Monte Carlo Simulation in R
 
-Using random numer to estimate Pi
+Using random number to estimate Pi
